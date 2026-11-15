@@ -9,3 +9,9 @@
 4.Circular Queue
 
 5.Creating a linked list(Q1-Q4)
+
+6.Single LL operations
+
+7.Doubly LL operations
+
+8.Circular LL operations
