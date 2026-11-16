@@ -15,3 +15,9 @@
 7.Doubly LL operations
 
 8.Circular LL operations
+
+9.Addition of polynomial
+
+10.Sort,Rev,Concate of SLL
+
+11.Stack and queue implementation using SLL
